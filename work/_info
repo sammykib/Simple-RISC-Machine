@@ -1,0 +1,623 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/15.0
+vAdder1
+Z0 !s110 1541464006
+!i10b 1
+!s100 RDG2RXji0238ggcBMmc341
+IJm<Y`Z?3l>27PagQJ^TVo0
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dC:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8
+Z3 w1541215408
+Z4 8C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/alu.v
+Z5 FC:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/alu.v
+L0 47
+Z6 OV;L;10.3d;59
+r1
+!s85 0
+31
+Z7 !s108 1541464006.030000
+Z8 !s107 C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/alu.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/alu.v|
+!i113 1
+Z10 o-work work
+n@adder1
+vAddSub
+R0
+!i10b 1
+!s100 2>SF=Bk1^zb<D4Sncn[]e0
+IzaYQdPHn1<IYnZOUaF0Pm0
+R1
+R2
+R3
+R4
+R5
+L0 30
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@add@sub
+vALU
+R0
+!i10b 1
+!s100 n2h`BQXebe?f1BYHZ;FfW1
+IdH<U:=7PfEFOi?oGdZ_^M1
+R1
+R2
+R3
+R4
+R5
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@a@l@u
+vcpu
+R0
+!i10b 1
+!s100 T3SXfKk`V2cY@1eS<>1C00
+IUJK^idb;VO=S@9mLezQ5f3
+R1
+R2
+Z11 w1541411583
+Z12 8C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/cpu.v
+Z13 FC:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/cpu.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z14 !s108 1541464006.131000
+Z15 !s107 C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/cpu.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/cpu.v|
+!i113 1
+R10
+vdatapath
+R0
+!i10b 1
+!s100 5C49^18g`RJ700_6PH;o>0
+Izczl_UkPeDVC?:6VSMe=Q2
+R1
+R2
+Z17 w1541252205
+Z18 8C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/datapath.v
+Z19 FC:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/datapath.v
+L0 4
+R6
+r1
+!s85 0
+31
+Z20 !s108 1541464006.301000
+Z21 !s107 C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/datapath.v|
+Z22 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/datapath.v|
+!i113 1
+R10
+vDec
+R0
+!i10b 1
+!s100 c9@i=]d37Fj;T;A:f;XE@1
+I>F2@4=f:UnRLgc<0jXFP?1
+R1
+R2
+Z23 w1539485055
+Z24 8C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/regfile.v
+Z25 FC:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/regfile.v
+L0 49
+R6
+r1
+!s85 0
+31
+Z26 !s108 1541464006.710000
+Z27 !s107 C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/regfile.v|
+Z28 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/regfile.v|
+!i113 1
+R10
+n@dec
+vEqComp
+R0
+!i10b 1
+!s100 >X<c4flHW6aFOUzRBSTZ53
+I>;Ji9Gm1eBINEdR?<=XBL2
+R1
+R2
+Z29 w1541448365
+Z30 8C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/lab8_top.v
+Z31 FC:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/lab8_top.v
+L0 48
+R6
+r1
+!s85 0
+31
+Z32 !s108 1541464006.940000
+Z33 !s107 C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/lab8_top.v|
+Z34 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/lab8_top.v|
+!i113 1
+R10
+n@eq@comp
+vinstruct_dec
+R0
+!i10b 1
+!s100 ><9G@MTc9?]WjS<`XCeaJ0
+I0P=1:ZaJVII`ZgafPml>13
+R1
+R2
+R11
+R12
+R13
+L0 224
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+vlab7_tb
+!s110 1541214488
+!i10b 1
+!s100 >GiCmWBN2__LP4oNz@1@l2
+Ik?BZD6O]H6cN5S;HF>;2=1
+R1
+R2
+w1541138168
+Z35 8C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/lab8_tb.v
+Z36 FC:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/lab8_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1541214488.047000
+!s107 C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/lab8_tb.v|
+Z37 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/lab8_tb.v|
+!i113 1
+R10
+vlab7_top
+!s110 1541214297
+!i10b 1
+!s100 L9bSm=6ZCSL1_GUaAoYb91
+IH16<Fb=^zle00bllk[giK0
+R1
+R2
+w1540869686
+R30
+R31
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1541214297.778000
+R33
+R34
+!i113 1
+R10
+vlab8_check_tb
+R0
+!i10b 1
+!s100 LJkS_:eDzgnXe6TP60[mL3
+IkSYz4LBfB]cEP6G57U^>g0
+R1
+R2
+w1541263678
+8C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/lab8_autograder_check.v
+FC:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/lab8_autograder_check.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1541464006.420000
+!s107 C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/lab8_autograder_check.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/lab8_autograder_check.v|
+!i113 1
+R10
+vlab8_stage2_tb
+R0
+!i10b 1
+!s100 ?dc2IB][`EHRbeaVbHhcK0
+IZeY8F6:UVH8V7;acTN:3f0
+R1
+R2
+w1540931252
+8C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/lab8_stage2_tb.v
+FC:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/lab8_stage2_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1541464006.510000
+!s107 C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/lab8_stage2_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/lab8_stage2_tb.v|
+!i113 1
+R10
+vlab8_tb
+!s110 1541464007
+!i10b 1
+!s100 e7kFY5C16G[ma6e=YoRmO3
+IF]OH2Q=0PmT1I8zG@mj=83
+R1
+R2
+w1541464003
+R35
+R36
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1541464007.040000
+!s107 C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/lab8_tb.v|
+R37
+!i113 1
+R10
+vlab8_top
+R0
+!i10b 1
+!s100 2P[LT@P;`F[nOl_lmgLmC2
+ILGoLT8OL?6IGSn_i_QIF@1
+R1
+R2
+R29
+R30
+R31
+L0 1
+R6
+r1
+!s85 0
+31
+R32
+R33
+R34
+!i113 1
+R10
+vLEvdFF
+R0
+!i10b 1
+!s100 @ZF_ZEk0__iPam]>X3YE72
+I^Q_GS6lNo93;JGS<hmf6o0
+R1
+R2
+R11
+R12
+R13
+L0 270
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+n@l@evd@f@f
+vMux3a
+R0
+!i10b 1
+!s100 5O=]RBUi^n1lV]_0i5X1<0
+I2kLT0VP;9hSBPQ1KSX9d?2
+R1
+R2
+R11
+R12
+R13
+L0 252
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+n@mux3a
+vMux3a_1
+!s110 1541268222
+!i10b 1
+!s100 jn1FLCiXzEQ0>j=AD5dS72
+II<lF:cdICFa^]mFC>Ro8S2
+R1
+R2
+w1541266537
+R12
+R13
+L0 269
+R6
+r1
+!s85 0
+31
+!s108 1541268221.974000
+R15
+R16
+!i113 1
+R10
+n@mux3a_1
+vMux4a
+R0
+!i10b 1
+!s100 2m?FAHJbaa1[=L?QdEK9d2
+IQbkK31N^;kR`IWLh:kikE2
+R1
+R2
+R17
+R18
+R19
+Z38 L0 50
+R6
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R10
+n@mux4a
+vMux8a
+R0
+!i10b 1
+!s100 CUG=^BPYMDQn8W<PMa5AG2
+IdCW;TIAZ]IDfCJRKh<G@i2
+R1
+R2
+R23
+R24
+R25
+L0 61
+R6
+r1
+!s85 0
+31
+R26
+R27
+R28
+!i113 1
+R10
+n@mux8a
+vpc_adder
+R0
+!i10b 1
+!s100 j4?m48B=GDC2Y_mBn9MD<0
+IUbajlAamC4EXTdTPQKkz@2
+R1
+R2
+R11
+R12
+R13
+L0 283
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+vRAM
+R0
+!i10b 1
+!s100 @NVY=ABE920TATcMDOK740
+IcZg[i6LWJhfNlRSFf[Akf0
+R1
+R2
+w1540779721
+8C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/ram.v
+FC:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/ram.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1541464006.620000
+!s107 C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/ram.v|
+!i113 1
+R10
+n@r@a@m
+vregfile
+R0
+!i10b 1
+!s100 Bn^hJJZa=Qom:=[T]hZfi3
+IhBXf2hWGa_7dCKC1XTP2Y0
+R1
+R2
+R23
+R24
+R25
+L0 2
+R6
+r1
+!s85 0
+31
+R26
+R27
+R28
+!i113 1
+R10
+vregload
+R0
+!i10b 1
+!s100 9A77zWMXV]SABYKhDkJ>f3
+I1jm6AUebZIo;BGA5M`b8>3
+R1
+R2
+R23
+R24
+R25
+L0 36
+R6
+r1
+!s85 0
+31
+R26
+R27
+R28
+!i113 1
+R10
+vsetflags
+R0
+!i10b 1
+!s100 zQOBB02`7Q?G=1X8XMdZR1
+IB;N3hKVKK172B7?oRC<:Z1
+R1
+R2
+R3
+R4
+R5
+L0 60
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vshifter
+R0
+!i10b 1
+!s100 Y_JSPF4B9jYlXQcEGJ?1Q3
+IjW2P77QHPEXUi8DaLH=VX2
+R1
+R2
+w1539462082
+8C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/shifter.v
+FC:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/shifter.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1541464006.820000
+!s107 C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/skinn/Documents/School/Third Year Uni/First Term/CPEN 211/Labs/Lab8/shifter.v|
+!i113 1
+R10
+vstate_machine
+R0
+!i10b 1
+!s100 ?CYdU[7J=::QURHW]`0a_3
+I`WP9g<7b_dF>@fhR6L]g70
+R1
+R2
+R11
+R12
+R13
+R38
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+vstatusregister
+R0
+!i10b 1
+!s100 mOm`c61I_GXncBXI>n0Bo3
+I0QNae1iF<m2lIjh1[`EiF2
+R1
+R2
+R17
+R18
+R19
+L0 37
+R6
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R10
+vtest_state
+!s110 1541211900
+!i10b 1
+!s100 zj`@C1^`J6INo;9AnE=:f0
+I;hIR]47:8`CaSIc4go_7M2
+R1
+R2
+w1541211892
+R12
+R13
+L0 233
+R6
+r1
+!s85 0
+31
+!s108 1541211899.988000
+R15
+R16
+!i113 1
+R10
+vupdateLED
+R0
+!i10b 1
+!s100 gA@kaSGKY[2g9zgN3X>T70
+Iom_V?QQ^R:994hIKdZjV^3
+R1
+R2
+R29
+R30
+R31
+L0 58
+R6
+r1
+!s85 0
+31
+R32
+R33
+R34
+!i113 1
+R10
+nupdate@l@e@d
+vvDFF
+R0
+!i10b 1
+!s100 2F64Um]ED8Y=Uo`A3bd5E1
+IYkePbUm9Xe?AJ:kMWR:KV0
+R1
+R2
+R17
+R18
+R19
+L0 68
+R6
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R10
+nv@d@f@f
